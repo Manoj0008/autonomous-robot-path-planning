@@ -1,0 +1,4 @@
+algorithm,successful_runs,total_runs,success_rate_percent
+BFS,30,30,100.0
+DFS,30,30,100.0
+A*,30,30,100.0
